@@ -1,4 +1,4 @@
-name: Keepalive Workflow
+name: 保活任务
 on:
   schedule:
     - cron: "0 0 * * *"
